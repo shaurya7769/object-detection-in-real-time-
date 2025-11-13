@@ -1,4 +1,4 @@
-import cv2
+'''import cv2
 import numpy as np
 from flask import Flask, render_template_string, Response
 from ultralytics import YOLO
@@ -87,3 +87,4 @@ def video_feed():
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000)
+'''
